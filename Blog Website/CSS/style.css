@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.header_nav{
+    text-decoration: none;
+    color: black;
+}
+
+.header_nav:hover{
+    /* background-color: yellow; */
+    color: orange;
+    text-decoration: underline;
+}
+
+.blue{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .hid{
+    display: none;
+} */
